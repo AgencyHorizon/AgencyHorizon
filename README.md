@@ -1,12 +1,56 @@
-## AgencyHorizon
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-florentino-06a462196/)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorflorentino52/?next=%2F)
+<h1 style="display: flex; align-items: center;"><img src="https://agencyhorizon.com.br/wp-content/uploads/2024/01/HorizonNovaLogo01-teste.png" alt="Horizon Logo" width="100" height="100">
+</h1>
 
-![AgencyHorizon GitHub stats](https://github-readme-stats.vercel.app/api?username=AgencyHorizon&show_icons=true&theme=radical)
+# Welcome to **Horizon** !
+ Your partner in cutting-edge digital marketing and software development. We harness the power of technology to propel your business forward. Explore our services, projects, and connect with us to see how we can make a difference together.
 
-![image](https://github.com/AgencyHorizon/AgencyHorizon/assets/174064927/791c6d3c-9bca-4ec9-ad7c-6516e8513c6b)
-## text
-<p>lotem</p>
+## Table of Contents  🚀
+- [About Us](#about-us)
+- [Our Services](#our-services)
+- [Our Projects](#our-projects)
+- [Contact Us](#contact-us)
+- [Follow Us](#follow-us)
 
-#### victor.florentino.almeida@gmail.com
-#### +55 (81) 99686-4985
+## About Us  ℹ️
+At **Horizon**, we specialize in delivering comprehensive digital solutions tailored to meet the unique needs of each client. Our team of experts is dedicated to driving success through innovative strategies and state-of-the-art technologies.
+
+## Our Services 🌐
+### Digital Marketing
+- **SEO Optimization:** Enhance your online presence and improve search engine rankings.
+- **Social Media Management:** Engage with your audience on popular platforms.
+- **Content Creation and Paid Traffic:** Engage your audience with compelling and effective content, increasing your online visibility and engagement.
+- Etc...
+
+### Software Development 💻
+- **Web Development:** Create responsive and dynamic websites.
+- **Mobile App Development:** Develop intuitive mobile applications for iOS and Android.
+- **Automation Solutions:** Streamline your processes with custom automation.
+
+## Our Projects 🎨
+We take pride in our diverse portfolio, showcasing our expertise across various industries.
+
+### Project 1: [Developing-senses]()
+- Description: An app aimed at autistic children to improve communication and interaction through innovative technologies.
+
+### Project 2: [ Project-2]()
+- Description: A project focused on developing solutions to improve the quality of life for people with chronic illnesses.
+
+## Contact Us 📞
+We're here to help you achieve your business goals. Get in touch with us today.
+
+- **Email:** [contato@agencyhorizon.com](mailto:contato@agencyhorizon.com)
+- **Phone:** [+55(81) 98662-4573](tel:+81986624573)
+- **Address:** 585 Rua cárceres, Jaboatão dos guararapes, Pernambuco
+
+## Follow Us 🔍
+Stay updated with our latest news and projects.
+
+- [LinkedIn](https://www.linkedin.com/company/agency-horizon/)
+- [Website](https://agencyhorizon.com.br/)
+- [Behance](https://www.behance.net/agencyhorizon)
+- [Facebook](https://www.facebook.com/profile.php?id=61556189021819)
+- [Instagram](https://www.instagram.com/agencieshorizon/)
+
+---
+
+© 2024 Horizon. All rights reserved.
