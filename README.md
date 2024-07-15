@@ -1,6 +1,3 @@
-<h1 style="display: flex; align-items: center;"><img src="https://agencyhorizon.com.br/wp-content/uploads/2024/01/HorizonNovaLogo01-teste.png" alt="Horizon Logo" width="100" height="100">
-</h1>
-
 # Welcome to **Horizon** !
  Your partner in cutting-edge digital marketing and software development. We harness the power of technology to propel your business forward. Explore our services, projects, and connect with us to see how we can make a difference together.
 
