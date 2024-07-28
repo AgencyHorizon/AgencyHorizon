@@ -26,7 +26,7 @@ At **Horizon**, we specialize in delivering comprehensive digital solutions tail
 ## Our Projects 🎨
 We take pride in our diverse portfolio, showcasing our expertise across various industries.
 
-### Project 1: [Developing-senses]()
+### Project 1: [-senses]()
 - Description: An app aimed at autistic children to improve communication and interaction through innovative technologies.
 
 ### Project 2: [ Project-2]()
