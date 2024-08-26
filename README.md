@@ -29,7 +29,7 @@ We take pride in our diverse portfolio, showcasing our expertise across various 
 ### Project 1: [-senses]()
 - Description: An app aimed at autistic children to improve communication and interaction through innovative technologies.
 
-### Project 2: [ Project-2]()
+### Project 2: [ConectaVital]()
 - Description: A project focused on developing solutions to improve the quality of life for people with chronic illnesses.
 
 ## Contact Us 📞
