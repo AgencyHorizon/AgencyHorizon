@@ -80,8 +80,8 @@ We highlight our key projects that illustrate our expertise across social impact
 
 We are always looking for new talent and strategic partnerships.
 
-- **Email:** [contato@agencyhorizon.com](mailto:contato@agencyhorizon.com)
-- **Phone:** [+55(81) 98662-4573](tel:+81986624573)
+- **Email:** [contato@agencyhorizon.com](mailto:contato@agencyhorizon.com.br)
+- **Phone:** [+55(81) 98662-4573](tel:+8184301296)
 - **Address:** 585 Rua Cárceres, Jaboatão dos Guararapes, Pernambuco, Brazil
 
 ## Follow Our Journey 📢
